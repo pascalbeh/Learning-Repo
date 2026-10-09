@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bdafaf; 
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    max-width: 1640px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+p {
+    color: #333333; 
+    line-height: 1.5;
+    margin-bottom: 16px;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #d10e0e; 
+    text-align: left;
+    margin-bottom: 16px;
+    word-wrap: break-word;
+    hyphens: auto;
+}
